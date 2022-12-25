@@ -12,6 +12,9 @@ Frontend developer adalah orang yang berperan mengembangkan tampilan situs atau 
 * HTML
   * [HTML 5 Dasar (BWA)](https://buildwithangga.com/kelas/html5-dasar?thumbnail=8WxBDfdcNv.19&main_leads=topics)
   * [HTML 5 Dasar (Unpas)](https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F)
+  
+  * [Cheat Sheet (Emmet HTML & CSS)](https://docs.emmet.io/cheat-sheet/)
+  
 * CSS
   * [CSS Website Design (BWA)](https://buildwithangga.com/kelas/css-website-design?thumbnail=uEVdnpahf3.20&main_leads=topics)
   * [CSS Tailwind Web Design (BWA)](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=F2jEb5HW5n.46&main_leads=topics)
